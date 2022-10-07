@@ -1,0 +1,2 @@
+# thmconfig
+tryhackmemachine  configs
